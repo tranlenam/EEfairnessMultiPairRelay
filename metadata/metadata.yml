@@ -1,0 +1,22 @@
+metadata_version: 1
+name: Energy Efficiency Fairness for Multi-Pair Wireless-Powered Relaying System
+description: Simulation code for "Energy Efficiency Fairness for Multi-Pair Wireless-Powered
+  Relaying System," by Kien-Giang Nguyen, Quang-Doanh Vu,  Le-Nam Tran, and Markku
+  Juntti, IEEE Journal on Selected Areas in Communications, vol. 37, No. 2, pp. 357-373,
+  Feb. 2019.
+authors:
+- name: Kien-Giang Nguyen
+  affiliations:
+  - name: University of Oulu
+- name: Quang-Doanh Vu
+  affiliations:
+  - name: University of Oulu
+- name: Le-Nam Tran
+  affiliations:
+  - name: University College Dublin
+- name: Markku Juntti
+  affiliations:
+  - name: University of Oulu
+corresponding_contributor:
+  name: Le-Nam Tran
+  email: nam.tran@ucd.ie
